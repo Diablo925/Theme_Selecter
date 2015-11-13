@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+    <name>Theme Selecter</name>
+    <version>100</version>
+    <defaultcat>Account Information</defaultcat>
+    <desc>Change your theme</desc>
+    <authorname>Diablo925</authorname>
+    <authoremail>carsten@alio.dk</authoremail>
+    <authorurl>http://Alio.dk/</authorurl>
+    <updateurl></updateurl>
+</module>
